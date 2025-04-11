@@ -13,7 +13,7 @@ if (!defined('ABSPATH')) {
 
 // Define constants.
 define('ACRCLOUD_API_HOST', 'https://identify-eu-west-1.acrcloud.com');
-define('ACRCLOUD_ACCESS_KEY', 'wMoJQtKIF5Nxem7D'); 
+define('ACRCLOUD_ACCESS_KEY', 'your_access_key'); 
 define('ACRCLOUD_ACCESS_SECRET', 'your_access_secret');
 define('NOTIFICATION_EMAIL', 'example@mail.com');
 
